@@ -1,6 +1,6 @@
 # Simple-Shell
 
-A simple, minimalistic implementation of a shell based using the C language.
+A simple, minimalistic implementation of a shell using the C language.
 
 Changes made: Implemented the shell using the 'getline()' function in <stdio.h> to read a line of input instead of using malloc() and realloc() with buffer size. 
 
